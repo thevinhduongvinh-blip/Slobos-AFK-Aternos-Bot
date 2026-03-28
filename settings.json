@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "thevinh2803vn-ntxx.aternos.me",
+    "ip": "thevinh2803vn.aternos.me",
     "port": 52255,
     "version": "1.16.5",
     "try-creative": false
